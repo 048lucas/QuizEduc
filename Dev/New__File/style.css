@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+:root {
+
+    --cor__corpo:#d7f5ef;
+
+}
+.navegação {
+    text-align: center;
+    align-items: center;
+    margin-top: 0%;
+    padding: 0 10px;
+    background-color: var(--cor__corpo);
+    font-size: 20px;
+    color: #020202;
+    text-transform: capitalize; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    box-shadow: 2px 2px 2px white; 
+    justify-content: space-around;
+    text-decoration: none;
+    
+    
+}
+
+.links {
+    text-decoration: none;
+    justify-content: space-between;
+    color: #020202;
+
+}
+
+.corpo {
+
+    background-color: var(--cor__corpo);
+}
